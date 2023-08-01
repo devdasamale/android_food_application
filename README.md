@@ -7,9 +7,9 @@ I developed its as a College project!!!!!!!!!!
 
 # Results
 
-<img src="https://github.com/devdasamale/android_food_application/assets/100094659/202a87e7-2962-49a2-b162-945aca771e61" width=325 height=200>
+<img src="https://github.com/devdasamale/android_food_application/assets/100094659/202a87e7-2962-49a2-b162-945aca771e61" width=300 height=200>
 
-<img src="https://github.com/devdasamale/android_food_application/assets/100094659/688aa51d-5efa-4e90-a57e-1cc55f62ade9" width=325 height=200>
+<img src="https://github.com/devdasamale/android_food_application/assets/100094659/688aa51d-5efa-4e90-a57e-1cc55f62ade9" width=300 height=200>
 
 
 
